@@ -9,10 +9,10 @@ This decorator is particularly useful for:
 - Reducing boilerplate code in OOP-based Python applications.
 
 ## Installation
-You can install `super_init` via pip:
+You can install `super-init` via pip:
 
 ```bash
-pip install super_init
+pip install super-init
 ```
 
 ## How It Works
@@ -157,4 +157,4 @@ Developed by Abhijeet Kumar.
 
 ## Links
 - **GitHub Repository**: [https://github.com/csabhijeet/super-init](https://github.com/csabhijeet/super-init)
-- **PyPI Package**: [https://pypi.org/project/super-init/](https://pypi.org/project/super-init/) (Coming soon!)
+- **PyPI Package**: [https://pypi.org/project/super-init/](https://pypi.org/project/super-init/)
